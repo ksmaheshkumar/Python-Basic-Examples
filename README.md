@@ -1,4 +1,3 @@
-
 **Python-Basic-Examples**
 
 Αυτά τα παραδείγματα έχουν φτιαχτεί πολύ απλά, για να σας δώσουν μια γρήγορη ματιά στα πολύ βασικά της γλώσσας Python.
@@ -15,6 +14,7 @@
 
  - [A Byte of Python έκδοση **3.x** στα Ελληνικά][2]
 
+ - http://docs.python.org/tutorial/index.html
 
  - [Learn Python The Hard Way][3]
  
@@ -23,7 +23,6 @@
  - [The Hitchhiker’s Guide to Python][5]
  
  - [Should I use Python 2 or Python 3][6]
-
 
   [1]: http://zindilis.com/docs/A_Byte_of_Python
   [2]: http://wiki.ubuntu-gr.org/byte-of-python-el
