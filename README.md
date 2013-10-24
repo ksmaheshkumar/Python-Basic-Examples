@@ -22,6 +22,8 @@
  
  - [The Hitchhiker’s Guide to Python][5]
  
+ - http://www.tutorialspoint.com/python/index.htm
+ 
  - [Should I use Python 2 or Python 3][6]
 
   [1]: http://zindilis.com/docs/A_Byte_of_Python
